@@ -2,6 +2,8 @@
 
 ## ✍️ Key Learnings & Notes
 
+**Overview**
+
 **Define generative AI**
 
 **Explain how generative AI works**
