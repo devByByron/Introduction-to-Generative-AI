@@ -33,6 +33,7 @@ Enables computers to learn without being explicitly programmed.
 
 
 **Supervised vs Unsupervised Machine Learning**
+
 **1. Supervised Learning**
 
 Data: Uses labeled data (each input has a known output/label).
